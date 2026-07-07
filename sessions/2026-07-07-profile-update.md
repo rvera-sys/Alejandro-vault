@@ -26,6 +26,14 @@ fecha: 2026-07-07
 - CREATED: [[Proyectos/Otros-Proyectos]]
 - UPDATED: [[00-Home]]
 
+## Cambio de estructura
+
+Se unificó todo en un solo archivo: `Cerebro.md`.
+- CREATED: `Cerebro.md` (archivo único con toda la info)
+- DELETED: `Perfil/` y `Proyectos/` (archivos separados eliminados)
+- UPDATED: `00-Home.md` (simplificado, apunta a Cerebro.md)
+
 ## Acordado
 
-De ahora en más, cada sesión se documenta en `sessions/` y el vault se mantiene actualizado automáticamente.
+- `Cerebro.md` es la fuente de verdad única, se actualiza ante cualquier cambio
+- Cada sesión se documenta en `sessions/`
