@@ -1,12 +1,16 @@
 # 🧠 Memoria Claude — Alejandro
 
-> Base de conocimiento personal para sesiones con Claude Code. Actualizada: 2026-07-01
+> Base de conocimiento personal para sesiones con Claude Code. Actualizada: 2026-07-07
 
 ---
 
 ## Navegación rápida
 
-- [[Perfil/Alejandro]] — Quién soy, preferencias, contacto
+- [[Perfil/Alejandro]] — Perfil completo: identidad, profesión, proyectos, preferencias
+- [[Proyectos/TITAN-CEO]] — CEO-operator autónomo para la inmobiliaria
+- [[Proyectos/ELIOT]] — SaaS white-label inmobiliario
+- [[Proyectos/Documentos-3.1]] — Generación legal multi-usuario
+- [[Proyectos/Otros-Proyectos]] — Reporte Precios, HMM, TasaciónPRO, Trading Tools
 - [[Proyectos/Stack-Servicios]] — n8n, Open WebUI, Uptime Kuma, Ollama
 - [[Proyectos/OpenCode]] — Setup OpenCode desktop + Ollama
 - [[Proyectos/WhatsApp-CRM]] — CRM WhatsApp con Baileys + SQLite + PM2
