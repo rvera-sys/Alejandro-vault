@@ -1,0 +1,12 @@
+# Obsidian - config personal (no sincronizar)
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/cache
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Scripts locales
+sync-memoria.ps1
