@@ -1,0 +1,21 @@
+{
+  "autoCommitMessage": "chore: auto-sync vault - {{date}}",
+  "autoCommitInterval": 10,
+  "autoPushInterval": 30,
+  "autoPullInterval": 10,
+  "commitMessage": "chore: vault update - {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoSaveInterval": 5,
+  "autoPullOnBoot": true,
+  "disablePopups": false,
+  "showAuthor": false,
+  "showTime": false,
+  "showLineNumbers": false,
+  "updateAuthor": false,
+  "updateTime": false,
+  "updateLineNumbers": false,
+  "currentBranch": "main",
+  "_runtimeConfig": {
+    "lastAutoSyncDate": ""
+  }
+}
